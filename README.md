@@ -25,6 +25,7 @@ of a manifold of different co-dimensions at different locations.
 
 
 The files which should be in the directory:
+
 manifold_reconstruction_MLOP.m    The main program. This program runs on the cylinder toy example. but other manifolds can be used also.
 Data_Bunny.m                                                                
 Data_Cone_Non_Uniform_Sample.m                                              
@@ -48,5 +49,7 @@ Troubleshooting:
   
   
 (C) Copyright: Shira Faigenbaum-Golovin
+
 shirafaigen@gmail.com
+
 https://www.tau.ac.il/~alecsan1/
