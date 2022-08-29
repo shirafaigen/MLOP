@@ -1,5 +1,4 @@
-# MLOP
-Manifold Reconstruction and Denoising from Scattered Data in High Dimension
+# MLOP - Manifold Reconstruction and Denoising from Scattered Data in High Dimension
 
 This code implements the algorithm proposed in the paper
 Faigenbaum-Golovin, S., & Levin, D. (2020). Manifold Reconstruction and Denoising from Scattered Data in High Dimension via a Generalization of $ L_1 $-Median. arXiv preprint arXiv:2012.12546.
