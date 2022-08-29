@@ -17,7 +17,7 @@ convex computational method converges to a local stationary solution with a boun
 linear rate of convergence if the starting point is close enough to the local minimum.
 The effectiveness of our approach is demonstrated in various numerical experiments, by
 considering different manifold topologies with various amounts of noise, including a case
-of a manifold of different co-dimensions at dierent locations.
+of a manifold of different co-dimensions at different locations.
 
 
 The files which should be in the directory:
